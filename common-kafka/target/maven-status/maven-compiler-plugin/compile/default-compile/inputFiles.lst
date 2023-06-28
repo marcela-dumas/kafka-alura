@@ -1,0 +1,5 @@
+/home/marcela/estudos/kafka/projeto-alura/common-kafka/src/main/java/br/com/kafka/alura/KafkaDispatcher.java
+/home/marcela/estudos/kafka/projeto-alura/common-kafka/src/main/java/br/com/kafka/alura/ConsumerFunction.java
+/home/marcela/estudos/kafka/projeto-alura/common-kafka/src/main/java/br/com/kafka/alura/GsonSerializer.java
+/home/marcela/estudos/kafka/projeto-alura/common-kafka/src/main/java/br/com/kafka/alura/KafkaService.java
+/home/marcela/estudos/kafka/projeto-alura/common-kafka/src/main/java/br/com/kafka/alura/GsonDeserializer.java
